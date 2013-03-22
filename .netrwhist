@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/private/var/folders/md/9zdnb_vd20j2cf9t_yr8203w0000gn/T/95901e7f-955a-4572-a0e4-ec20affb94a2/var/www/fuel/app/classes/model'
